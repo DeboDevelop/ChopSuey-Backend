@@ -51,6 +51,14 @@ Used to GET and POST dishes.
 
 Used to GET 1, PUT and DELETE a dish.
 
+5. http://localhost:1337/auth/local/register
+
+Used to register a user using POST request.
+
+6. http://localhost:1337/auth/local
+
+Used to login a user using POST request.
+
 ## License
 
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details
